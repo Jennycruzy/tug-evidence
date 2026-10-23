@@ -1,10 +1,10 @@
 {
- "exported_at": 1792753125636,
+ "exported_at": 1792754403437,
  "record_start": "2026-10-22T11:55:21.000Z",
  "snapshots": {
-  "complete": 276,
+  "complete": 280,
   "partial": 0,
-  "last_complete_id": 280
+  "last_complete_id": 284
  },
  "paper": [
   {
@@ -2214,36 +2214,68 @@
    "turnover": 125832.99501139625,
    "fees": -6.291649750569815,
    "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 281,
+   "ts": 1792753200017,
+   "equity": 9600.807797064772,
+   "turnover": 125832.99506076491,
+   "fees": -6.291649753038247,
+   "funding": -0.6509943285759422
+  },
+  {
+   "snapshot_id": 282,
+   "ts": 1792753500032,
+   "equity": 9608.587531636773,
+   "turnover": 125832.99506076491,
+   "fees": -6.291649753038247,
+   "funding": -0.6509943285759422
+  },
+  {
+   "snapshot_id": 283,
+   "ts": 1792753800046,
+   "equity": 9598.912327424467,
+   "turnover": 125832.99506076491,
+   "fees": -6.291649753038247,
+   "funding": -0.6509943285759422
+  },
+  {
+   "snapshot_id": 284,
+   "ts": 1792754100063,
+   "equity": 9603.84381555253,
+   "turnover": 126194.02539961305,
+   "fees": -6.309701269980654,
+   "funding": -0.6509943285759422
   }
  ],
  "scoreboard": {
   "from_ts": 1792670236963,
-  "to_ts": 1792752900050,
-  "copy_pnl": -318395.0734595455,
-  "fade_pnl": -801792.3689890108,
-  "copy_up": 153,
+  "to_ts": 1792754100063,
+  "copy_pnl": -310610.51238527603,
+  "fade_pnl": -1261179.810513061,
+  "copy_up": 150,
   "copy_active": 297,
-  "fade_up": 42,
+  "fade_up": 41,
   "fade_active": 146,
-  "snapshots": 276
+  "snapshots": 280
  },
  "fees_saved": {
   "fromTs": 1792670236963,
-  "toTs": 1792752900050,
+  "toTs": 1792754100063,
   "capital": 10000,
   "baseline": {
    "subscriptions": 300,
    "perSubscriptionUsd": 33.333333333333336,
-   "turnover": 19342.456817523453,
-   "fees": 9.671228408761726,
-   "orders": 8883,
+   "turnover": 19548.15408640687,
+   "fees": 9.774077043203436,
+   "orders": 9037,
    "unsized": 0
   },
   "tug": {
-   "turnover": 125832.99501139625,
-   "fees": -6.291649750569813
+   "turnover": 126194.02539961305,
+   "fees": -6.3097012699806525
   },
-  "saved": 15.962878159331538
+  "saved": 16.083778313184087
  },
  "fills": [
   {
@@ -2262,8 +2294,8 @@
   },
   {
    "network": "vault",
-   "fills": 1,
-   "maker_fills": 1,
+   "fills": 2,
+   "maker_fills": 2,
    "fees": 0,
    "realized": 0
   }
