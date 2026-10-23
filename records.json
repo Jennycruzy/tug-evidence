@@ -1,10 +1,10 @@
 {
- "exported_at": 1792751664358,
+ "exported_at": 1792753125636,
  "record_start": "2026-10-22T11:55:21.000Z",
  "snapshots": {
-  "complete": 271,
+  "complete": 276,
   "partial": 0,
-  "last_complete_id": 275
+  "last_complete_id": 280
  },
  "paper": [
   {
@@ -2174,36 +2174,76 @@
    "turnover": 125832.83940438411,
    "fees": -6.2916419702192075,
    "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 276,
+   "ts": 1792751700021,
+   "equity": 9580.256349771986,
+   "turnover": 125832.83940438411,
+   "fees": -6.2916419702192075,
+   "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 277,
+   "ts": 1792752000005,
+   "equity": 9583.885045369441,
+   "turnover": 125832.83940438411,
+   "fees": -6.2916419702192075,
+   "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 278,
+   "ts": 1792752300026,
+   "equity": 9592.307722952932,
+   "turnover": 125832.99501139625,
+   "fees": -6.291649750569815,
+   "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 279,
+   "ts": 1792752600048,
+   "equity": 9588.9769474787,
+   "turnover": 125832.99501139625,
+   "fees": -6.291649750569815,
+   "funding": -0.5318060471885746
+  },
+  {
+   "snapshot_id": 280,
+   "ts": 1792752900050,
+   "equity": 9594.055326051857,
+   "turnover": 125832.99501139625,
+   "fees": -6.291649750569815,
+   "funding": -0.5318060471885746
   }
  ],
  "scoreboard": {
   "from_ts": 1792670236963,
-  "to_ts": 1792751400430,
-  "copy_pnl": -384409.35787769133,
-  "fade_pnl": -472894.69342146197,
-  "copy_up": 160,
+  "to_ts": 1792752900050,
+  "copy_pnl": -318395.0734595455,
+  "fade_pnl": -801792.3689890108,
+  "copy_up": 153,
   "copy_active": 297,
-  "fade_up": 45,
-  "fade_active": 145,
-  "snapshots": 271
+  "fade_up": 42,
+  "fade_active": 146,
+  "snapshots": 276
  },
  "fees_saved": {
   "fromTs": 1792670236963,
-  "toTs": 1792751400430,
+  "toTs": 1792752900050,
   "capital": 10000,
   "baseline": {
    "subscriptions": 300,
    "perSubscriptionUsd": 33.333333333333336,
-   "turnover": 19317.612893484933,
-   "fees": 9.658806446742467,
-   "orders": 8752,
+   "turnover": 19342.456817523453,
+   "fees": 9.671228408761726,
+   "orders": 8883,
    "unsized": 0
   },
   "tug": {
-   "turnover": 125832.83940438411,
-   "fees": -6.291641970219206
+   "turnover": 125832.99501139625,
+   "fees": -6.291649750569813
   },
-  "saved": 15.950448416961674
+  "saved": 15.962878159331538
  },
  "fills": [
   {
@@ -2219,6 +2259,13 @@
    "maker_fills": 17,
    "fees": 0.0477249,
    "realized": 0.04796964285
+  },
+  {
+   "network": "vault",
+   "fills": 1,
+   "maker_fills": 1,
+   "fees": 0,
+   "realized": 0
   }
  ],
  "depth_added_mainnet": {
