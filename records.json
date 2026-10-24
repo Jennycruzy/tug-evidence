@@ -1,10 +1,10 @@
 {
- "exported_at": 1792866011508,
+ "exported_at": 1792869615910,
  "record_start": "2026-10-22T11:55:21.000Z",
  "snapshots": {
-  "complete": 652,
+  "complete": 664,
   "partial": 0,
-  "last_complete_id": 656
+  "last_complete_id": 668
  },
  "paper": [
   {
@@ -5222,44 +5222,140 @@
    "turnover": 220935.5325650653,
    "fees": -11.046776628253273,
    "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 657,
+   "ts": 1792866004523,
+   "equity": 9569.816571003928,
+   "turnover": 220935.5325650653,
+   "fees": -11.046776628253273,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 658,
+   "ts": 1792866304531,
+   "equity": 9566.358893185818,
+   "turnover": 220935.5325650653,
+   "fees": -11.046776628253273,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 659,
+   "ts": 1792866625500,
+   "equity": 9554.054502492785,
+   "turnover": 231424.34717849173,
+   "fees": -11.571217358924594,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 660,
+   "ts": 1792866904538,
+   "equity": 9555.283430921223,
+   "turnover": 231424.34717849173,
+   "fees": -11.571217358924594,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 661,
+   "ts": 1792867204548,
+   "equity": 9554.470915349799,
+   "turnover": 231424.34717849173,
+   "fees": -11.571217358924594,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 662,
+   "ts": 1792867504546,
+   "equity": 9543.78102219243,
+   "turnover": 231426.57779577604,
+   "fees": -11.57132888978881,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 663,
+   "ts": 1792867804554,
+   "equity": 9542.611877705087,
+   "turnover": 231426.57779577604,
+   "fees": -11.57132888978881,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 664,
+   "ts": 1792868104563,
+   "equity": 9518.212234302637,
+   "turnover": 231426.57779577604,
+   "fees": -11.57132888978881,
+   "funding": 0.00951729938300043
+  },
+  {
+   "snapshot_id": 665,
+   "ts": 1792868404569,
+   "equity": 9501.934441973865,
+   "turnover": 231426.57811986055,
+   "fees": -11.571328905993036,
+   "funding": 1.5500029433455995
+  },
+  {
+   "snapshot_id": 666,
+   "ts": 1792868704579,
+   "equity": 9497.522710676869,
+   "turnover": 231426.57811986055,
+   "fees": -11.571328905993036,
+   "funding": 1.5500029433455995
+  },
+  {
+   "snapshot_id": 667,
+   "ts": 1792869004586,
+   "equity": 9495.8881799725,
+   "turnover": 231426.57811986055,
+   "fees": -11.571328905993036,
+   "funding": 1.5500029433455995
+  },
+  {
+   "snapshot_id": 668,
+   "ts": 1792869304592,
+   "equity": 9508.526523092662,
+   "turnover": 231426.57811997263,
+   "fees": -11.57132890599864,
+   "funding": 1.5500029433455995
   }
  ],
  "scoreboard": {
   "from_ts": 1792670236963,
-  "to_ts": 1792865704516,
-  "copy_pnl": 155260.87062264374,
-  "fade_pnl": -4503155.274931331,
-  "copy_up": 176,
-  "copy_active": 355,
-  "fade_up": 59,
-  "fade_active": 204,
-  "snapshots": 652
+  "to_ts": 1792869304592,
+  "copy_pnl": 33644.56240344477,
+  "fade_pnl": -3867632.005567153,
+  "copy_up": 182,
+  "copy_active": 364,
+  "fade_up": 66,
+  "fade_active": 210,
+  "snapshots": 664
  },
  "fees_saved": {
   "fromTs": 1792670236963,
-  "toTs": 1792865704516,
+  "toTs": 1792869304592,
   "capital": 10000,
   "baseline": {
    "subscriptions": 300,
    "perSubscriptionUsd": 33.333333333333336,
-   "turnover": 46602.4401858519,
-   "fees": 23.30122009292595,
-   "orders": 20690,
+   "turnover": 47594.106527020616,
+   "fees": 23.797053263510307,
+   "orders": 21007,
    "unsized": 0
   },
   "tug": {
-   "turnover": 220935.5325650653,
-   "fees": -11.046776628253266
+   "turnover": 231426.57811997263,
+   "fees": -11.571328905998632
   },
-  "saved": 34.347996721179214
+  "saved": 35.36838216950894
  },
  "fills": [
   {
    "network": "mainnet",
-   "fills": 42,
-   "maker_fills": 42,
-   "fees": -0.02544012,
-   "realized": -1.70977
+   "fills": 44,
+   "maker_fills": 44,
+   "fees": -0.02680712,
+   "realized": -2.04361
   },
   {
    "network": "testnet",
@@ -5300,6 +5396,13 @@
     "avgShareOfTop5": 0.0029896686083132353
    },
    {
+    "symbol": "CXMT-USD",
+    "minutesResting": 16,
+    "minutesAtBest": 3,
+    "avgShareOfBest": 1,
+    "avgShareOfTop5": 0.014937836037427554
+   },
+   {
     "symbol": "LIT-USD",
     "minutesResting": 3,
     "minutesAtBest": 0,
@@ -5312,15 +5415,8 @@
     "minutesAtBest": 0,
     "avgShareOfBest": 0,
     "avgShareOfTop5": 0.001447951705241585
-   },
-   {
-    "symbol": "CXMT-USD",
-    "minutesResting": 1,
-    "minutesAtBest": 0,
-    "avgShareOfBest": 0,
-    "avgShareOfTop5": 0.012182741116751269
    }
   ],
-  "minutesResting": 239
+  "minutesResting": 254
  }
 }
