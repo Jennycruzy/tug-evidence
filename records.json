@@ -1,10 +1,10 @@
 {
- "exported_at": 1793042419803,
+ "exported_at": 1793046014352,
  "record_start": "2026-10-22T11:55:21.000Z",
  "snapshots": {
-  "complete": 1095,
+  "complete": 1096,
   "partial": 0,
-  "last_complete_id": 1099
+  "last_complete_id": 1100
  },
  "paper": [
   {
@@ -8758,36 +8758,44 @@
    "turnover": 360038.4091360393,
    "fees": -18.001920456801987,
    "funding": 6.646286297796938
+  },
+  {
+   "snapshot_id": 1099,
+   "ts": 1792998600005,
+   "equity": 9421.21993651077,
+   "turnover": 360038.4091360393,
+   "fees": -18.001920456801987,
+   "funding": 6.646286297796938
   }
  ],
  "scoreboard": {
   "from_ts": 1792670236963,
-  "to_ts": 1792998300021,
-  "copy_pnl": 34774.90618748187,
-  "fade_pnl": -3674494.36666265,
-  "copy_up": 200,
+  "to_ts": 1792998600005,
+  "copy_pnl": 46632.51716253816,
+  "fade_pnl": -3826295.568307875,
+  "copy_up": 202,
   "copy_active": 401,
-  "fade_up": 87,
+  "fade_up": 84,
   "fade_active": 256,
-  "snapshots": 1094
+  "snapshots": 1095
  },
  "fees_saved": {
   "fromTs": 1792670236963,
-  "toTs": 1792998300021,
+  "toTs": 1792998600005,
   "capital": 10000,
   "baseline": {
    "subscriptions": 300,
    "perSubscriptionUsd": 33.333333333333336,
-   "turnover": 71252.07557854838,
-   "fees": 35.62603778927419,
-   "orders": 31360,
+   "turnover": 71318.44138278549,
+   "fees": 35.65922069139275,
+   "orders": 31393,
    "unsized": 0
   },
   "tug": {
    "turnover": 360038.4091360393,
    "fees": -18.001920456801965
   },
-  "saved": 53.62795824607616
+  "saved": 53.661141148194716
  },
  "fills": [
   {
