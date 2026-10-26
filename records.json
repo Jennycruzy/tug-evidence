@@ -1,5 +1,5 @@
 {
- "exported_at": 1793020821820,
+ "exported_at": 1793024415878,
  "record_start": "2026-10-22T11:55:21.000Z",
  "snapshots": {
   "complete": 1095,
@@ -8816,10 +8816,10 @@
   "markets": [
    {
     "symbol": "TSLA-USD",
-    "minutesResting": 1389,
+    "minutesResting": 1435,
     "minutesAtBest": 334,
     "avgShareOfBest": 0.9300398331615867,
-    "avgShareOfTop5": 0.0015119912196241677
+    "avgShareOfTop5": 0.0015044879583931648
    },
    {
     "symbol": "DRAM-USD",
@@ -8878,6 +8878,6 @@
     "avgShareOfTop5": 0.0011031765146475507
    }
   ],
-  "minutesResting": 1642
+  "minutesResting": 1688
  }
 }
